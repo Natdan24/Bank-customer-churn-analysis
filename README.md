@@ -4,9 +4,13 @@ End-to-end churn-prediction workflow and interactive dashboard built in Microsof
 
 ## Repo Structure
 bank-customer-churn-analysis/
+
 ├── data/ # bank_customers.csv
+
 ├── model/ # churn_report.pbix
+
 ├── docs/ # churn_report.pdf
+
 └── README.md
 
 ## Getting Started
